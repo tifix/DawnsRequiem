@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DawnsRequiem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{44EB5F11-DC3F-4EF9-90DE-3F76E6357D73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DawnsRequiem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DawnsRequiemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{ABAA9347-42DA-4894-B5F0-6E7DC597B06D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DawnsRequiem">
+      <UniqueIdentifier>{C8FCF416-C17D-4E15-8464-691D59525AA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DawnsRequiem\DawnsRequiem.Build.cs">
+      <Filter>Source\DawnsRequiem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DawnsRequiem\DawnsRequiem.cpp">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DawnsRequiem\DawnsRequiem.h">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DawnsRequiem\DawnsRequiemCharacter.cpp">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DawnsRequiem\DawnsRequiemCharacter.h">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DawnsRequiem\DawnsRequiemGameMode.cpp">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DawnsRequiem\DawnsRequiemGameMode.h">
+      <Filter>Source\DawnsRequiem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

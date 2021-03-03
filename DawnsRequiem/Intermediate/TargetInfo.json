@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DawnsRequiem",
+			"Path": "D:\\Unreal\\Unreal Projects\\DawnsRequiem\\DawnsRequiem\\Source\\DawnsRequiem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DawnsRequiemEditor",
+			"Path": "D:\\Unreal\\Unreal Projects\\DawnsRequiem\\DawnsRequiem\\Source\\DawnsRequiemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DawnsRequiem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\DawnsRequiemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiem.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiemCharacter.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiemGameMode.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiem.init.gen.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiemCharacter.gen.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\DawnsRequiemGameMode.gen.cpp.obj"
+"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\Default.rc2.res"
+/OUT:"D:\Unreal\Unreal Projects\DawnsRequiem\DawnsRequiem\Intermediate\Build\Win64\UE4Editor\Development\DawnsRequiem\UE4Editor-DawnsRequiem.lib"
+/INCLUDE:IMPLEMENT_MODULE_DawnsRequiem

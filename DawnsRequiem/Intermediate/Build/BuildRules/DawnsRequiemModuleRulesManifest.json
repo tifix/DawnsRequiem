@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\Unreal Projects\\DawnsRequiem\\DawnsRequiem\\Source\\DawnsRequiem\\DawnsRequiem.Build.cs",
+		"D:\\Unreal\\Unreal Projects\\DawnsRequiem\\DawnsRequiem\\Source\\DawnsRequiem.Target.cs",
+		"D:\\Unreal\\Unreal Projects\\DawnsRequiem\\DawnsRequiem\\Source\\DawnsRequiemEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
